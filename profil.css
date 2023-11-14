@@ -22,26 +22,10 @@ h2{
 .jumbotron .container h1{
     font-size: 80px;
     font-family: 'Playpen Sans', cursive;
-    font-weight: bold;
-    transition: .3s ease-in-out;
-}
-.jumbotron .container h1:hover{
-    font-size: 100px;
 }
 
-.jumbotron .container h3 {
-    font-size: 50px;
-    transition: .3s ease-in-out;
-}
-.jumbotron .container h3:hover {
-    font-size: 70px;
-    text-shadow: 0 0 5px black;
-}
 
-.jumbotron .container p {
-    font-size: 30px;
-    font-weight: lighter;
-}
+
 #about {
     background-color: #fff ;
 }

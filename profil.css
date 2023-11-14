@@ -1,0 +1,85 @@
+*{
+    font-family: 'Product Sans';
+}
+body{
+    min-height: 2000px;
+
+}
+header .navbar-brand {
+    font-family: 'Poppins';
+    font-size: 50px;
+    font-weight: 700;
+}
+h2{
+    font-family: 'Playpen Sans', cursive;
+}
+
+.jumbotron {
+    padding-top: 5em;
+    background-color: #caf0f8;
+}
+
+.jumbotron .container h1{
+    font-size: 80px;
+    font-family: 'Playpen Sans', cursive;
+    font-weight: bold;
+    transition: .3s ease-in-out;
+}
+.jumbotron .container h1:hover{
+    font-size: 100px;
+}
+
+.jumbotron .container h3 {
+    font-size: 50px;
+    transition: .3s ease-in-out;
+}
+.jumbotron .container h3:hover {
+    font-size: 70px;
+    text-shadow: 0 0 5px black;
+}
+
+.jumbotron .container p {
+    font-size: 30px;
+    font-weight: lighter;
+}
+#about {
+    background-color: #fff ;
+}
+.row h2{
+    padding: 1em 1em;
+}
+
+.row .col{
+    padding-bottom: 2em;
+}
+
+#resume h2 {
+    padding: 1em 2em;
+}
+
+#resume .row {
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+
+
+#gallery h2{
+    padding: 1em 2em;
+}
+#gallery .container {
+    padding: 2em 1em
+}
+
+.carousel-inner {
+    border-radius: 40px;
+}
+
+.fa-brands {
+    width: 300%;
+}
+
+.footer h2{
+    padding: 1em 1em;
+}
+
